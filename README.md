@@ -1,2 +1,2 @@
-# HackerEarth
-Solution to problem solved on hacker earth
+# HackerTools
+Solutions and techniques to hack any programming question.
