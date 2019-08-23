@@ -38,6 +38,7 @@ ptr = (int*)calloc(n, sizeof(int));		//memory is initialised to 0 for each int b
 free(ptr);
 
 // reallocates new memory space with inceased size
-ptr = realloc(ptr, n * sizeof(int));
+ptr = realloc(ptr, n * sizeof(int)); 
 
-/*ARRAY/MATRIX TRAVERSING*/
+/*SEARCHING ALGORITHMS*/
+
