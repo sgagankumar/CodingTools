@@ -62,6 +62,19 @@ else:
 ...		statement2
 >>>statement3
 
+#Defining a Class and Creating a Object
+
+>>>class inputOutputValue(object):
+>>>		def __init__(self):
+>>>			self.s = ""
+>>>		def getValue(self):
+>>>			self.s = input()
+>>>		def printValue(self):
+>>>			print(s)
+>>>
+>>>sampleObj = inputOutputValue()
+>>>sampleObj.getValue()
+>>>sampleObj.printValue()
 
 # TRY AND EXCEPT BLOCK
 
@@ -386,3 +399,4 @@ b'Hello world'
 >>>
 >>>
 >>>
+
